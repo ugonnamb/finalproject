@@ -1,0 +1,24 @@
+html{
+  background-color: white;
+}
+
+  .avatar {
+    vertical-align: t;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+  }
+  .background
+        {
+            position:absolute;
+            left:0px;
+            top:0px;
+            z-index:-1;
+        }
+        .avatar
+        {
+            position:absolute;
+            left:40px;
+            top:10px;
+            z-index:1;
+        }

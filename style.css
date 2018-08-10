@@ -1,0 +1,31 @@
+html{
+  background-color: purple;
+}
+
+  .avatar {
+    vertical-align: t;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+  }
+  .background
+        {
+            position:absolute;
+            left:0px;
+            top:0px;
+            z-index:-1;
+        }
+        .avatar
+        {
+            position:absolute;
+            left:40px;
+            top:10px;
+            z-index:1;
+        }
+  p1{
+    margin-top: 5px;
+    margin-bottom: 900px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+}
